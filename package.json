@@ -1,6 +1,6 @@
 {
   "name": "cppclasscreator",
-  "displayName": "CppClassCreator",
+  "displayName": "C++ Class Creator",
   "description": "This is a VS Code extension for creating C++ classes with header and implementation files",
   "version": "0.0.1",
   "engines": {
