@@ -2,6 +2,7 @@
   "name": "cppclasscreator",
   "displayName": "C++ Class Creator",
   "description": "This is a VS Code extension for creating C++ classes with header and implementation files",
+  "repository": "https://github.com/andrei2699/CPP-Class-Creator-VS-Code-Extension",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
