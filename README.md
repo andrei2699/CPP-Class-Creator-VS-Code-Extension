@@ -13,3 +13,22 @@ No special requirements or dependencies.
 ## Release Notes
 
 See [ChangeLog](/CHANGELOG.md) for more details
+
+## How to Build
+
+```shell
+vsce package
+```
+
+## How to Publish
+
+
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
+```shell
+vsce login andrei2699
+```
+
+```shell
+vsce publish
+```

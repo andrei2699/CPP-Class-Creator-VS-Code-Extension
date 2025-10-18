@@ -1,8 +1,23 @@
 {
   "name": "cppclasscreator",
-  "displayName": "C++ Class Creator",
+  "displayName": "Simple C++ Class Creator",
   "description": "This is a VS Code extension for creating C++ classes with header and implementation files",
-  "repository": "https://github.com/andrei2699/CPP-Class-Creator-VS-Code-Extension",
+  "publisher": "andrei2699",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrei2699/CPP-Class-Creator-VS-Code-Extension"
+  },
+  "bugs": {
+    "url": "https://github.com/andrei2699/CPP-Class-Creator-VS-Code-Extension/issues"
+  },
+  "homepage": "https://github.com/andrei2699/CPP-Class-Creator-VS-Code-Extension",
+  "license": "Apache-2.0",
+  "keywords": [
+    "c++",
+    "class",
+    "creator",
+    "generate"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
